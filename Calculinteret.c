@@ -5,7 +5,7 @@ int main() {
     double initial_amount;
     double monthly_deposit;
     double annual_interest_rate;
-    int months = 12; // Change this to the number of months you want to calculate for
+    int months = 12; 
 
     printf("Veuillez entrer le montant initial : ");
     scanf_s("%lf", &initial_amount);
@@ -15,7 +15,8 @@ int main() {
 
     printf("Veuillez entrer le taux d'intérêt annuel (en pourcentage) : ");
     scanf_s("%lf", &annual_interest_rate);
-    annual_interest_rate /= 100; // Convert the interest rate from percentage to decimal
+    annual_interest_rate /= 100; git add Calculinteret.c
+
 
     double balance = initial_amount;
     for (int i = 0; i < months; i++) {
