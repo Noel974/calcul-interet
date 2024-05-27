@@ -1,5 +1,5 @@
 # Calcul d'intérêt
-./image/Video.GIF
+![Video](https://github.com/Noel974/calcul-interet/assets/72489142/8f5762f1-f681-45b2-bab9-66fca0fad966)
 
 ## Introduction
 Ce projet est un programme en C qui calcule les intérêts sur un investissement initial avec des dépôts mensuels.
