@@ -1,5 +1,5 @@
 # Calcul d'intérêt
-!Video.GIF
+./image/Video.GIF
 
 ## Introduction
 Ce projet est un programme en C qui calcule les intérêts sur un investissement initial avec des dépôts mensuels.
